@@ -4,3 +4,5 @@ TTL      : Tasikmalaya 03 Mei 2007;
 Umur     : 15thn;
 Sekolah  : SMK Cendikia;
 Sebagai  : Front-end Developer;
+Hoby     : Ngoding Cuy;
+Cita"    : Web Developer Front-end;
